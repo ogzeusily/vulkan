@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ogzeus/lab1/build-debug/_deps/vk-bootstrap-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

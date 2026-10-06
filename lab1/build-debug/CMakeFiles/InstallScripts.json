@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ogzeus/\u043a\u0433/lab1/build-debug/cmake_install.cmake",
+		"/Users/ogzeus/\u043a\u0433/lab1/build-debug/_deps/glfw-build/cmake_install.cmake",
+		"/Users/ogzeus/\u043a\u0433/lab1/build-debug/_deps/glfw-build/src/cmake_install.cmake",
+		"/Users/ogzeus/\u043a\u0433/lab1/build-debug/_deps/vk-bootstrap-build/cmake_install.cmake",
+		"/Users/ogzeus/\u043a\u0433/lab1/build-debug/_deps/vulkanmemoryallocator-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
